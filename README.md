@@ -4,7 +4,9 @@
 
 
 currently text-davinci-3 only accepts 4096 tokens for each prompt. but this script can allows it accepts more, more, more than 4096 tokens.
-Try this script to QA shakespeare's book.
+
+**Try this script to QA shakespeare's book.**
+
 This is a super easy script to achieving when you needs to search big text-based data. By using langchain you can easily achieve it!
 
 - pip install -r requirements.txt
